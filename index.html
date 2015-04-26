@@ -19,13 +19,19 @@
 <pre><code class="lang-js"><span class="hljs-keyword">let</span> ascii = <span class="hljs-built_in">require</span>( <span class="hljs-string">"aureooms-js-ascii"</span> ) ;</code></pre>
 <h2 id="usage">Usage</h2>
 <pre><code class="lang-js">ascii.islower( <span class="hljs-string">'a'</span> ) ; <span class="hljs-comment">// true</span>
+ascii.islower( <span class="hljs-string">'à'</span> ) ; <span class="hljs-comment">// false</span>
 ascii.islower( <span class="hljs-string">'A'</span> ) ; <span class="hljs-comment">// false</span>
+ascii.islower( <span class="hljs-string">'À'</span> ) ; <span class="hljs-comment">// false</span>
 ascii.islower( <span class="hljs-string">'0'</span> ) ; <span class="hljs-comment">// false</span>
 
 ascii.isupper( <span class="hljs-string">'a'</span> ) ; <span class="hljs-comment">// false</span>
+ascii.isupper( <span class="hljs-string">'à'</span> ) ; <span class="hljs-comment">// false</span>
 ascii.isupper( <span class="hljs-string">'A'</span> ) ; <span class="hljs-comment">// true</span>
+ascii.isupper( <span class="hljs-string">'À'</span> ) ; <span class="hljs-comment">// false</span>
 ascii.isupper( <span class="hljs-string">'0'</span> ) ; <span class="hljs-comment">// false</span>
 
 ascii.isdigit( <span class="hljs-string">'a'</span> ) ; <span class="hljs-comment">// false</span>
+ascii.isdigit( <span class="hljs-string">'à'</span> ) ; <span class="hljs-comment">// false</span>
 ascii.isdigit( <span class="hljs-string">'A'</span> ) ; <span class="hljs-comment">// false</span>
+ascii.isdigit( <span class="hljs-string">'À'</span> ) ; <span class="hljs-comment">// false</span>
 ascii.isdigit( <span class="hljs-string">'0'</span> ) ; <span class="hljs-comment">// true</span></code></pre></div></div></div></div></body></html>
