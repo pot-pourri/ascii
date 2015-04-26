@@ -1,7 +1,7 @@
 [js-ascii](http://aureooms.github.io/js-ascii)
 ==
 
-ASCII code bricks for JavaScript
+ASCII code bricks for JavaScript.
 
 [![NPM license](http://img.shields.io/npm/l/aureooms-js-ascii.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-ascii/master/LICENSE)
 [![NPM version](http://img.shields.io/npm/v/aureooms-js-ascii.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-ascii)
@@ -15,6 +15,8 @@ ASCII code bricks for JavaScript
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-ascii.svg?style=flat)](https://github.com/aureooms/js-ascii/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-ascii.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-ascii)
 
+## Installation
+
 Can be managed through [duo](https://github.com/duojs/duo),
 [component](https://github.com/componentjs/component),
 [bower](https://github.com/bower/bower), or
@@ -22,4 +24,20 @@ Can be managed through [duo](https://github.com/duojs/duo),
 
 ```js
 let ascii = require( "aureooms-js-ascii" ) ;
+```
+
+## Usage
+
+```js
+ascii.islower( 'a' ) ; // true
+ascii.islower( 'A' ) ; // false
+ascii.islower( '0' ) ; // false
+
+ascii.isupper( 'a' ) ; // false
+ascii.isupper( 'A' ) ; // true
+ascii.isupper( '0' ) ; // false
+
+ascii.isdigit( 'a' ) ; // false
+ascii.isdigit( 'A' ) ; // false
+ascii.isdigit( '0' ) ; // true
 ```

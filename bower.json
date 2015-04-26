@@ -10,6 +10,7 @@
 		"test",
 		"pkg.json",
 		"package.json",
+		"inch.json",
 		".groc.json",
 		".travis.yml",
 		".gitignore",
