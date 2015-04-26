@@ -10,7 +10,7 @@
 		"javascript",
 		"js"
 	],
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"devDependencies": {
 		"aureooms-node-package": "^4.1.0"
 	},
