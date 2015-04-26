@@ -1,6 +1,6 @@
 {
 	"description": "ASCII code bricks for JavaScript",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "aureooms-js-ascii",
 	"license": "AGPL-3.0",
 	"main": "js/dist/ascii.js",
