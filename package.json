@@ -1,0 +1,35 @@
+{
+	"description": "ASCII code bricks for JavaScript",
+	"keywords": [
+		"ASCII",
+		"ascii",
+		"bricks",
+		"isdigit",
+		"islower",
+		"isupper",
+		"javascript",
+		"js"
+	],
+	"version": "0.0.0",
+	"devDependencies": {
+		"aureooms-node-package": "^4.1.0"
+	},
+	"bugs": {
+		"url": "https://github.com/aureooms/js-ascii/issues"
+	},
+	"license": "AGPL-3.0",
+	"author": "aureooms",
+	"homepage": "http://aureooms.github.io/js-ascii/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aureooms/js-ascii.git"
+	},
+	"name": "aureooms-js-ascii",
+	"main": "js/dist/ascii.js",
+	"dependencies": {},
+	"scripts": {
+		"test": "./node_modules/.bin/aureooms-node-package-test",
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build"
+	}
+}

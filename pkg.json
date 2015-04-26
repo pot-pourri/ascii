@@ -1,0 +1,17 @@
+{
+	"out": "js/dist/",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"ascii.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	},
+	"debug": false,
+	"name": "ascii",
+	"src": "js/src/"
+}
