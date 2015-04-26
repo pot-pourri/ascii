@@ -30,14 +30,20 @@ let ascii = require( "aureooms-js-ascii" ) ;
 
 ```js
 ascii.islower( 'a' ) ; // true
+ascii.islower( 'à' ) ; // false
 ascii.islower( 'A' ) ; // false
+ascii.islower( 'À' ) ; // false
 ascii.islower( '0' ) ; // false
 
 ascii.isupper( 'a' ) ; // false
+ascii.isupper( 'à' ) ; // false
 ascii.isupper( 'A' ) ; // true
+ascii.isupper( 'À' ) ; // false
 ascii.isupper( '0' ) ; // false
 
 ascii.isdigit( 'a' ) ; // false
+ascii.isdigit( 'à' ) ; // false
 ascii.isdigit( 'A' ) ; // false
+ascii.isdigit( 'À' ) ; // false
 ascii.isdigit( '0' ) ; // true
 ```
