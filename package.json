@@ -24,7 +24,7 @@
 		"type": "git",
 		"url": "https://github.com/aureooms/js-ascii.git"
 	},
-	"name": "aureooms-js-ascii",
+	"name": "@aureooms/js-ascii",
 	"main": "js/dist/ascii.js",
 	"dependencies": {},
 	"scripts": {
