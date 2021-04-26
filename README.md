@@ -1,4 +1,4 @@
-[js-ascii](http://aureooms.github.io/js-ascii)
+[js-ascii](http://make-github-pseudonymous-again.github.io/js-ascii)
 ==
 
 ASCII code bricks for JavaScript.
