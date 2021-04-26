@@ -15,14 +15,14 @@
 		"aureooms-node-package": "^6.0.1"
 	},
 	"bugs": {
-		"url": "https://github.com/aureooms/js-ascii/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-ascii/issues"
 	},
 	"license": "AGPL-3.0",
 	"author": "aureooms",
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-ascii/",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-ascii.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-ascii.git"
 	},
 	"name": "@aureooms/js-ascii",
 	"main": "js/dist/ascii.js",

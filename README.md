@@ -3,17 +3,17 @@
 
 ASCII code bricks for JavaScript.
 
-[![License](https://img.shields.io/github/license/aureooms/js-ascii.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-ascii/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-ascii/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-ascii.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-ascii)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-ascii.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-ascii)
-[![Build Status](https://img.shields.io/travis/aureooms/js-ascii.svg?style=flat)](https://travis-ci.org/aureooms/js-ascii)
-[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-ascii.svg?style=flat)](https://coveralls.io/r/aureooms/js-ascii)
-[![Dependencies Status](https://img.shields.io/david/aureooms/js-ascii.svg?style=flat)](https://david-dm.org/aureooms/js-ascii#info=dependencies)
-[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-ascii.svg?style=flat)](https://david-dm.org/aureooms/js-ascii#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-ascii.svg?style=flat)](https://codeclimate.com/github/aureooms/js-ascii)
+[![Build Status](https://img.shields.io/travis/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://travis-ci.org/make-github-pseudonymous-again/js-ascii)
+[![Coverage Status](https://img.shields.io/coveralls/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://coveralls.io/r/make-github-pseudonymous-again/js-ascii)
+[![Dependencies Status](https://img.shields.io/david/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-ascii#info=dependencies)
+[![devDependencies Status](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-ascii#info=devDependencies)
+[![Code Climate](https://img.shields.io/codeclimate/github/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://codeclimate.com/github/make-github-pseudonymous-again/js-ascii)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-ascii.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-ascii)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-ascii.svg?style=flat)](https://github.com/aureooms/js-ascii/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-ascii.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-ascii)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-ascii.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-ascii/issues)
+[![Inline docs](http://inch-ci.org/github/make-github-pseudonymous-again/js-ascii.svg?branch=master&style=shields)](http://inch-ci.org/github/make-github-pseudonymous-again/js-ascii)
 
 ## Installation
 
